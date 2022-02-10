@@ -1,5 +1,5 @@
 # my_defender
-Tower-defense like game in CSFML  
+Tower-defense-like game coded in CSFML with almost fully custom created sprites.  
   
 In order to play, you will :
   
